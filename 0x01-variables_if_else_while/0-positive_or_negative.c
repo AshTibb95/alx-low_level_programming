@@ -1,11 +1,16 @@
 #include <stdlib.h>
+
 #include <time.h>
+
 #include <stdio.h>
+
 /**
  * main -Determine if a number is negative, positive or zero
- * Return: 0 (Success)
+ * Return: Always (Success)
  * */
+
 int main(void)
+
 {
 	int n;
 	srand(time(0));
